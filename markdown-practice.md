@@ -46,9 +46,9 @@ You can check out my work here:[My Github Profile](https://github.com/dollagrace
 |GitHub   |Hosts Git projects online|[Github](https://github.com)            |
 |VS Code  |code editing             |[VS Code](https://code.visualstudio.com)|
 ### Goals
-[x]Create a Github account
-[ ]Build my portfolio site
-[ ]Learn more about AI and data science
+-[x]Create a Github account
+-[ ]Build my portfolio site
+-[ ]Learn more about AI and data science
 ```python
 print("Hello World")
 ```
