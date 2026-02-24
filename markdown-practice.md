@@ -1,6 +1,7 @@
 ## My Learning Goals 
 ### This Semester 
-**Exercise 2 - Text formatting**  
+**Exercise 2 - Text formatting** 
+---
 I am currently learning **programming** with *VS Code* and `HTML`
 --- 
 **Exercise 3 - Links** 
