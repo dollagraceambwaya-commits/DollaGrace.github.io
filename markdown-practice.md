@@ -4,8 +4,8 @@
 I am currently learning **programming** with *VS Code* and `HTML`
 --- 
 **Exercise 3 - Links** 
-[My Github Profile](https://github.com/dollagraceambwaya-commits/DollaGrace.github.io) 
-[Linkedin](www.linkedin.com/in/dolla-grace-b4021a1b4)
+- [My Github Profile](https://github.com/dollagraceambwaya-commits/DollaGrace.github.io) 
+- [Linkedin](www.linkedin.com/in/dolla-grace-b4021a1b4)
 --- 
 **Exercise 4 - Lists** 
 Unordered List of things I want to learn 
