@@ -1,19 +1,22 @@
-## My Learning Goals
-### This Semester
-**Exercise 2 - Text formatting**
+## My Learning Goals 
+### This Semester 
+**Exercise 2 - Text formatting** 
 I am currently learning **programming** with *VS Code* and `HTML`
-**Exercise 3 - Links**
-[My Github Profile](https://github.com/dollagraceambwaya-commits/DollaGrace.github.io)
+--- 
+**Exercise 3 - Links** 
+[My Github Profile](https://github.com/dollagraceambwaya-commits/DollaGrace.github.io) 
 [Linkedin](www.linkedin.com/in/dolla-grace-b4021a1b4)
-**Exercise 4 - Lists**
-Unordered List of things i want to learn
--Web development
--AI & Machine Learning
--Data science
+--- 
+**Exercise 4 - Lists** 
+Unordered List of things I want to learn 
+- Web development
+- AI & Machine Learning
+- Data science
 Ordered list of steps to make a commit in Git
--Use git add <file> to stage changes
--Use git commit -m to save staged changes 
--Push to GitHub with git push
+1. Use `git add <file>` to stage changes
+2. Use `git commit -m` to save staged changes
+3. Push to GitHub with `git push`
+---
 **Exercise 5 -Table**
 |Tool   | Purpose                 | Link                                   |
 |-------|-------------------------|----------------------------------------|
