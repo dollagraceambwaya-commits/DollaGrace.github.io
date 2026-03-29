@@ -14,5 +14,5 @@
 
 ## How to Reach Me
 - Email: dollagraceambwaya@gmail.com
-- LinkedIn: www.linkedin.com/in/ dolla-grace-b4021a1b4
+- [LinkedIn](https://www.linkedin.com/in/dolla-grace-b4021a1b4)
   
